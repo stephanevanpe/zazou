@@ -110,19 +110,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_2'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /8BCDB729-FBEB-4765-A4DA-DBB7726474BC.jpg')} width='150' />
-						</MediaBox>
+			
 					</Col>
 					<Col>
 						<MediaBox
@@ -218,19 +206,7 @@ class FredTreidel extends React.Component {
 				</Row>
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
 					<Col style={{}}>
-						<MediaBox
-							id='MediaBox_9'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7883-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -248,19 +224,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_11'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7889-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -278,19 +242,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_13'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7901-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -340,19 +292,7 @@ class FredTreidel extends React.Component {
 				</Row>
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
 					<Col style={{}}>
-						<MediaBox
-							id='MediaBox_18'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7912-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 						<MediaBox
 							id='MediaBox_17'
 							options={{
@@ -368,19 +308,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_20'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7926-TLr-TPs-M-S.jpg')} width='150' />
-						</MediaBox>
+						
 						<MediaBox
 							id='MediaBox_19'
 							options={{
@@ -467,34 +395,10 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_50'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8087-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_51'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7942-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+						
 					</Col>
 					<Col>
 						<MediaBox
@@ -514,49 +418,12 @@ class FredTreidel extends React.Component {
 				</Row>
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
 					<Col style={{}}>
-						<MediaBox
-							id='MediaBox_25'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7948-TLr-TPs-M-S.jpg')} width='150' />
-						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_26'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7950-TLr-TPs-M-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_27'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8032-1-TLr-TPs--S.jpg')} width='150' />
-						</MediaBox>
+						
 					</Col>
 					<Col>
 						<MediaBox
@@ -574,19 +441,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_29'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7963-TLr-TPs-M-S.jpg')} width='150' />
-						</MediaBox>
+						
 					</Col>
 					<Col>
 						<MediaBox
@@ -619,19 +474,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_32'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8030-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+						
 					</Col>
 				</Row>
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
@@ -651,19 +494,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_34'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8032-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -727,19 +558,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_39'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8059-TLr-TPs-C85-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -759,19 +578,7 @@ class FredTreidel extends React.Component {
 				</Row>
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
 					<Col>
-						<MediaBox
-							id='MediaBox_41'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8059-TLr-TPs-NB-M-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -789,19 +596,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_43'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_8066-TLr-TPs-C85-M-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
@@ -820,19 +615,7 @@ class FredTreidel extends React.Component {
 					</Col>
 
 					<Col>
-						<MediaBox
-							id='MediaBox_45'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7931-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+						
 					</Col>
 					<Col>
 						<MediaBox
@@ -865,19 +648,7 @@ class FredTreidel extends React.Component {
 						</MediaBox>
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_48'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7938-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+						
 					</Col>
 				</Row>
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
