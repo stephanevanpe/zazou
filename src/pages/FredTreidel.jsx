@@ -444,19 +444,7 @@ class FredTreidel extends React.Component {
 						
 					</Col>
 					<Col>
-						<MediaBox
-							id='MediaBox_30'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Fred Treidel' src={require('../image/ Fred Treidel /FTR_7923-TLr-TPs-S.jpg')} width='150' />
-						</MediaBox>
+
 					</Col>
 					<Col>
 						<MediaBox
