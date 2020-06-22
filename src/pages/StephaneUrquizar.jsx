@@ -103,7 +103,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src={require('../image/SUrquizar/Elsa-200123-projection-095-Modifier-WEB.jpg')} width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -118,7 +118,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src={require('../image/SUrquizar/Elsa-200123-projection-101-Modifier-WEB.jpg')} width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -133,7 +133,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src={require('../image/SUrquizar/Elsa-200123-projection-110-Modifier.jpg')} width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -148,7 +148,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src={require('../image/SUrquizar/Elsa-200123-projection-132-Modifier-WEB.jpg')} width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
 						</MediaBox>
 					</Col>
 
@@ -164,7 +164,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src={require('../image/SUrquizar/Elsa-200123-projection-132-Modifier.jpg')} width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
 						</MediaBox>
 					</Col>
 				</Row>
