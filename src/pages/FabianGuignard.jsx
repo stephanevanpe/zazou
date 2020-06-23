@@ -27,8 +27,8 @@ class FabianGuignard extends React.Component {
 							<Button className='pink lighten-5' floating icon={<Icon className='red-text  '>arrow_back</Icon>} large node='button' waves='light' />
 						</a>
 					</Col>
-					<h4 className='pink-text   text-lighten-5' style={{ marginTop: '0px', fontFamily: 'Sablon Up', fontSize: '85px' }}>
-						- Fabian Guignard -
+					<h4 className='pink-text   text-lighten-5' style={{ marginTop: '0px', fontFamily: 'Chalkduster, fantasy', fontSize: '85px' }}>
+						Fabian Guignard
 					</h4>
 					<a href='mailto:info@fabian-guignard.ch'>
 						<Button
