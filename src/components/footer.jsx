@@ -3,6 +3,12 @@ import {  Button, Icon, Row, Col} from 'react-materialize';
 import swal from 'sweetalert';
  
 const Fouter = () => {
+	function changeBackground(e) {
+		e.target.style.color = 'cyan';
+	}
+	function initialBackground(e) {
+		e.target.style.color = '#fce4ec';
+	}
 	return (
 		<footer className='navbar-fixed-botom transparent ' fixed='true'>
 			<p>
@@ -41,10 +47,21 @@ const Fouter = () => {
 			</p>
 			<p className='pink-text   text-lighten-5'>
 				© 2020 Copyright Zazou Modèle - Réalisé par{' '}
-				<a className='pink-text text-lighten-5' href='https://www.linkedin.com/in/stephane-van-pe/' target='_blank' rel='noopener noreferrer'>
+				<a
+					className='pink-text text-lighten-5'
+					href='https://www.linkedin.com/in/stephane-van-pe/'
+					target='_blank'
+					rel='noopener noreferrer'
+					onMouseOver={changeBackground}
+					onMouseLeave={initialBackground}
+				>
 					<u>Stéphane Van-Pé</u>{' '}
 				</a>
-				<span onClick={() => swal({ text: 'https://pngtree.com/so/watercolor et https://fotomelia.com/' })}>
+				<span
+					onClick={() => swal({ text: 'https://pngtree.com/so/watercolor et https://fotomelia.com/' })}
+					onMouseOver={changeBackground}
+					onMouseLeave={initialBackground}
+				>
 					- <u>Crédit Photos</u>
 				</span>
 			</p>
