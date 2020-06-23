@@ -103,7 +103,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1eA5Jrxql9a4Ke6fjHojOUs5m2V8icsNP' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -118,7 +118,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1_N8_1ptH-jt6owldkIcg1bY68AzHyoxt' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -133,7 +133,7 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1ipiBjKukYgZ9YNPWf5Ckbj3zeiokCw2Z' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -148,25 +148,15 @@ class StephaneUrquizar extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img
+								alt='Zazou by Stéphane Urquizar'
+								src='https://drive.google.com/uc?export=view&id=1U8LYGPn1q5ZEU1nROUyLyoOr_TJ0XWKf'
+								width='150'
+							/>
 						</MediaBox>
 					</Col>
 
-					<Col>
-						<MediaBox
-							id='MediaBox_5'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
-						</MediaBox>
-					</Col>
+					<Col></Col>
 				</Row>
 				<br />
 				<hr />
