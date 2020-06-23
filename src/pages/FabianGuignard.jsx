@@ -103,20 +103,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Fabian Guignard' src='!#' width='150' />
-						</MediaBox>
-						<MediaBox
-							id='MediaBox_9'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Fabian Guignard' src='https://drive.google.com/uc?export=view&id=1Du6tJv2_W4uPtoveeK8jfA3ZMKsQYCZa' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -131,7 +118,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Fabian Guignard' src='!#' width='150' />
+							<img alt='Zazou by Fabian Guignard' src='https://drive.google.com/uc?export=view&id=19frIet__SLEd878b5k2qGrx5QdgD3pzF' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -146,7 +133,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Fabian Guignard' src='!#' width='150' />
+							<img alt='Zazou by Fabian Guignard' src='https://drive.google.com/uc?export=view&id=11gdvQbwyjNplzBAmLJUwPRaKfDoacWxp' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -161,7 +148,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1eWN9XUaJFkbbxp6yYWcsY-futz2n69mW' width='150' />
 						</MediaBox>
 					</Col>
 
@@ -177,7 +164,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1z3xTIleU9uY9NXtb_RbKAzBes5XzPLwC' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -192,7 +179,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=13sAAtugriHnYDrfT16LtPudFobQNRYWs' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -207,7 +194,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1qHSfWtijW2u2IlPV7j75k7BRm9Ntsfct' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -222,7 +209,7 @@ class FabianGuignard extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Stéphane Urquizar' src='!#' width='150' />
+							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1nYQXwM1SbLM2uLMxavFFIIc7REsaAVYU' width='150' />
 						</MediaBox>
 					</Col>
 				</Row>
