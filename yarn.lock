@@ -9108,7 +9108,7 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-materialize@^3.9.2:
+react-materialize@^3.9.3:
   version "3.9.3"
   resolved "https://registry.yarnpkg.com/react-materialize/-/react-materialize-3.9.3.tgz#7dc8c71ca103b1560395807b057d93f4afe619d8"
   integrity sha512-Xyr1us1eXJQDp1UTs9CCIn/YoXPp1P8BA1oc17sUWQtXlAJg5/H20s185QXT4fCWFBwDAbnSQnIwGLkMb/lsRQ==

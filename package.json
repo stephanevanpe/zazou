@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-images": "^1.1.7",
-    "react-materialize": "^3.9.2",
+    "react-materialize": "^3.9.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-scroll-up-button": "^1.6.4",
