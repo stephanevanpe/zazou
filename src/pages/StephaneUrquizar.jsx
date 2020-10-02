@@ -90,7 +90,9 @@ class StephaneUrquizar extends React.Component {
 				<hr />
 				<br />
 				<br />
-				<Row style={{ align: 'center', marginLeft: '35px' }}>
+				<Row style={{ align: 'center', marginLeft: '300px' }}>
+					<Col></Col>
+					<Col></Col>
 					<Col style={{}}>
 						<MediaBox
 							id='MediaBox_1'
@@ -151,7 +153,7 @@ class StephaneUrquizar extends React.Component {
 							<img alt='Zazou by Stéphane Urquizar' src='https://drive.google.com/uc?export=view&id=1U8LYGPn1q5ZEU1nROUyLyoOr_TJ0XWKf' width='150' />
 						</MediaBox>
 					</Col>
-
+					<Col></Col>
 					<Col></Col>
 				</Row>
 				<br />
