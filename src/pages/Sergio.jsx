@@ -69,7 +69,7 @@ class Sergio extends React.Component {
 				<hr />
 				<br />
 				<Row style={{ align: 'center', marginLeft: '35px' }}>
-					<Col style={{}}>
+					<Col>
 						<MediaBox
 							id='MediaBox_1'
 							options={{
@@ -81,7 +81,21 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1R2wxhzPdAhVygqM8dB2vyaT83cjyATae' width='150' />
+						</MediaBox>
+						<br />
+						<MediaBox
+							id='MediaBox_4'
+							options={{
+								inDuration: 275,
+								onCloseEnd: null,
+								onCloseStart: null,
+								onOpenEnd: null,
+								onOpenStart: null,
+								outDuration: 200,
+							}}
+						>
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1TFsCK1iDO1tg0k7ohCKxPzoSyxR9oONT' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -96,40 +110,9 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1WzMVFumyucz_tYy3eIwKd8sE638phojw' width='150' />
 						</MediaBox>
 					</Col>
-					<Col>
-						<MediaBox
-							id='MediaBox_3'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
-						</MediaBox>
-					</Col>
-					<Col>
-						<MediaBox
-							id='MediaBox_4'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
-						</MediaBox>
-					</Col>
-
 					<Col>
 						<MediaBox
 							id='MediaBox_5'
@@ -142,7 +125,7 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1zl0jRGMPu0ryh7gsQvWkotsdV_TUVKw8' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -157,10 +140,24 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1vLVLzhM4R6QuUx6IUFLIbMoRrhEIS90s' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
+						<MediaBox
+							id='MediaBox_3'
+							options={{
+								inDuration: 275,
+								onCloseEnd: null,
+								onCloseStart: null,
+								onOpenEnd: null,
+								onOpenStart: null,
+								outDuration: 200,
+							}}
+						>
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1Hf9cLXLRiPwAExxkj09172tXa1ALGuJ0' width='150' />
+						</MediaBox>
+						<br />
 						<MediaBox
 							id='MediaBox_7'
 							options={{
@@ -172,7 +169,7 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1VGS_bTg6lddM4OIQdvpVXc8EUdJotT78' width='150' />
 						</MediaBox>
 					</Col>
 					<Col>
@@ -187,27 +184,9 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1pbquH3A8Pyijlt27Zw4lLKEOXsrED4uA' width='150' />
 						</MediaBox>
-					</Col>
-				</Row>
-				<Row style={{ align: 'center', marginLeft: '35px' }}>
-					<Col style={{}}>
-						<MediaBox
-							id='MediaBox_9'
-							options={{
-								inDuration: 275,
-								onCloseEnd: null,
-								onCloseStart: null,
-								onOpenEnd: null,
-								onOpenStart: null,
-								outDuration: 200,
-							}}
-						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
-						</MediaBox>
-					</Col>
-					<Col>
+						<br />
 						<MediaBox
 							id='MediaBox_10'
 							options={{
@@ -219,9 +198,47 @@ class Sergio extends React.Component {
 								outDuration: 200,
 							}}
 						>
-							<img alt='Zazou by Serge Sinatra' src='!#' width='150' />
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1iMfcidOgJmTJ2B-q33UTcnugB4RNUfbV' width='150' />
 						</MediaBox>
 					</Col>
+					<Col>
+						<MediaBox
+							id='MediaBox_9'
+							options={{
+								inDuration: 275,
+								onCloseEnd: null,
+								onCloseStart: null,
+								onOpenEnd: null,
+								onOpenStart: null,
+								outDuration: 200,
+							}}
+						>
+							<img alt='Zazou by Serge Sinatra' src='https://drive.google.com/uc?export=view&id=1QYkdnn0Y6tB8xOPGB9IGY2ia1qzIJn1q' width='150' />
+						</MediaBox>
+					</Col>
+					<Col>
+						<MediaBox
+							id='MediaBox_9'
+							options={{
+								inDuration: 275,
+								onCloseEnd: null,
+								onCloseStart: null,
+								onOpenEnd: null,
+								onOpenStart: null,
+								outDuration: 200,
+							}}
+						>
+							<img
+								alt='Zazou by Serge Sinatra'
+								src='https://drive.google.com/uc?export=view&id=1o2kSJjHUqz1zQ6oW23Z-5_m7rQQsNR0T'
+								width='150'
+							/>
+						</MediaBox>
+					</Col>
+				</Row>
+				<Row style={{ align: 'center', marginLeft: '35px' }}>
+					<Col style={{}}></Col>
+					<Col></Col>
 					<Col>
 						<MediaBox
 							id='MediaBox_11'

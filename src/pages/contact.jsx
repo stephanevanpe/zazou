@@ -52,6 +52,11 @@ class Contact extends Component {
 								style={{ borderRadius: '100px 100px 100px 100px' }}
 							>
 								<br />
+								<div class='card-content'>
+									<p>
+										N'hésitez pas à me contacter pour tous projet de collaboration.
+									</p>
+								</div>
 								<div className='row'>
 									<div className='col s12'>
 										<a href='mailto:elsa.meli@icloud.com'>
